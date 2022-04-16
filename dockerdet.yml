@@ -1,0 +1,9 @@
+---
+- name: Deploy docker img
+  hosts: localhost
+  remote_user: root
+  tasks:
+    - name: Pull scical image
+      docker_image:
+        name: amith1108/scical
+        source: pull
