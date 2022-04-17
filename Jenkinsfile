@@ -54,7 +54,7 @@ pipeline {
 
     stage('Ansible') {
       steps{
-        ansiblePlaybook becomeUser: null, colorized: true, disableHostKeyChecking: true, installation: 'Ansible',  playbook: 'dockerdet.yml', sudoUser: null
+        ansiblePlaybook becomeUser: null, colorized: true, disableHostKeyChecking: true, installation: 'Ansible',  invetory: "Inventory",playbook: 'dockerdet.yml', sudoUser: null
       }
     }
   }

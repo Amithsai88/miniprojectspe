@@ -1,12 +1,8 @@
 ---
-- name: Deploy docker img
-  hosts: localhost
-  remote_user: root
+- name: Pull Docker image of Calculator
+  hosts: all
   tasks:
-    - name: Installing python library
-      pip:
-        name: docker-py
-    - name: Pull scical image
+    - name: Pull Cal image
       docker_image:
-        name: amith1108/scical
+        name: amith1108/miniprojectspe
         source: pull
