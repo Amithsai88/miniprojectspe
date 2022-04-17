@@ -3,6 +3,9 @@
   hosts: localhost
   remote_user: root
   tasks:
+    - name: Installing python library
+      pip:
+        name: docker-py
     - name: Pull scical image
       docker_image:
         name: amith1108/scical
