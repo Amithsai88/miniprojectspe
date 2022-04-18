@@ -1,11 +1,11 @@
-package SciCal;
+package Calc;
 //import SciCal.Main;
 import static org.junit.Assert.*;
 import org.junit.Test;
 
-public class My_Test {
+public class CalculateTest {
     private static final double DELTA = 1e-15;
-    My_Main calculator = new My_Main();
+    Calculate calculator = new Calculate();
 //TruePositive
 	@Test
 	public void test_root() {

@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.example</groupId>
-    <artifactId>SciCal</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>Calc</artifactId>
+    <version>Version1</version>
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
@@ -25,7 +25,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>SciCal.My_Main</mainClass>
+                                    <mainClass>Calc.Calculate</mainClass>
                                 </manifest>
                             </archive>
                             <descriptorRefs>
