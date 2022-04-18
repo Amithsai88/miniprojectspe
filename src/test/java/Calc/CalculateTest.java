@@ -1,59 +1,56 @@
 package Calc;
-//import SciCal.Main;
 import static org.junit.Assert.*;
 import org.junit.Test;
 
 public class CalculateTest {
     private static final double DELTA = 1e-15;
     Calculate calculator = new Calculate();
-//TruePositive
 	@Test
-	public void test_root() {
-		double actual=calculator.root(16.0);
-		double exp=4.0;
+	public void sqaureroot_test() {
+		double actual=calculator.root(9.0);
+		double exp=3.0;
 		assertEquals(actual,exp, DELTA);
 	}
 	@Test
-	public void test_fact() {
-		double actual=calculator.factorial(5);
-		double exp=120;
+	public void factorial_test() {
+		double actual=calculator.factorial(4);
+		double exp=24;
 		assertEquals(actual,exp, DELTA);
 	}
 	@Test
-	public void test_log() {
-		double actual=calculator.log(145.256);
-		double exp=4.978497702968366;
+	public void lne_test() {
+		double actual=calculator.log(300);
+		double exp=5.703782474656201;
 		assertEquals(actual,exp, DELTA);
 	}
 	@Test
-	public void test_power() {
-		double actual=calculator.power(2.0,3.0);
-		double exp=8.0;
+	public void powerofno_test() {
+		double actual=calculator.power(3.0,3.0);
+		double exp=27.0;
 		assertEquals(actual,exp, DELTA);
 	}
-//FalsePositive	
 	@Test
-	public void test_root2() {
-		double actual=calculator.root(17.0);
-		double exp=4.0;
+	public void sqaureroot_test2() {
+		double actual=calculator.root(28.0);
+		double exp=5.0;
 		assertNotEquals(actual,exp, DELTA);
 	}
 	@Test
-	public void test_fact2() {
-		double actual=calculator.factorial(6);
-		double exp=120;
+	public void factorial_test2() {
+		double actual=calculator.factorial(7);
+		double exp=5041.0;
 		assertNotEquals(actual,exp, DELTA);
 	}
 	@Test
-	public void test_log2() {
-		double actual=calculator.log(245.256);
-		double exp=4.978497702968366;
+	public void lne_test2() {
+		double actual=calculator.log(100.799);
+		double exp=2.613128435;
 		assertNotEquals(actual,exp, DELTA);
 	}
 	@Test
-	public void test_power2() {
-		double actual=calculator.power(3.0,2.0);
-		double exp=8.0;
+	public void powerofno_test2() {
+		double actual=calculator.power(4.0,2.0);
+		double exp=6.0;
 		assertNotEquals(actual,exp, DELTA);
 	}
 }

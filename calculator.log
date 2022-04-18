@@ -14,3 +14,131 @@
 18/Apr/2022:11:13:39 485 [Calculate.java] [INFO] Calc.Calculate [RESULT - POWER] - 8.0
 18/Apr/2022:11:13:39 486 [Calculate.java] [INFO] Calc.Calculate [ROOT] - 17.0
 18/Apr/2022:11:13:39 487 [Calculate.java] [INFO] Calc.Calculate [RESULT - ROOT] - 4.123105625617661
+18/Apr/2022:15:47:52 115 [Calculate.java] [INFO] Calc.Calculate [FACTORIAL] - 4
+18/Apr/2022:15:47:52 125 [Calculate.java] [INFO] Calc.Calculate [RESULT - FACTORIAL] - 24.0
+18/Apr/2022:15:47:52 127 [Calculate.java] [INFO] Calc.Calculate [LOG] - 100.799
+18/Apr/2022:15:47:52 128 [Calculate.java] [INFO] Calc.Calculate [RESULT - LOG] - 4.613128434953138
+18/Apr/2022:15:47:52 129 [Calculate.java] [INFO] Calc.Calculate [ROOT] - 9.0
+18/Apr/2022:15:47:52 157 [Calculate.java] [INFO] Calc.Calculate [RESULT - ROOT] - 3.0
+18/Apr/2022:15:47:52 158 [Calculate.java] [INFO] Calc.Calculate [LOG] - 300.0
+18/Apr/2022:15:47:52 159 [Calculate.java] [INFO] Calc.Calculate [RESULT - LOG] - 5.703782474656201
+18/Apr/2022:15:47:52 174 [Calculate.java] [INFO] Calc.Calculate [POWER] - 4.0, 2.0
+18/Apr/2022:15:47:52 175 [Calculate.java] [INFO] Calc.Calculate [RESULT - POWER] - 16.0
+18/Apr/2022:15:47:52 176 [Calculate.java] [INFO] Calc.Calculate [FACTORIAL] - 7
+18/Apr/2022:15:47:52 177 [Calculate.java] [INFO] Calc.Calculate [RESULT - FACTORIAL] - 5040.0
+18/Apr/2022:15:47:52 179 [Calculate.java] [INFO] Calc.Calculate [POWER] - 3.0, 3.0
+18/Apr/2022:15:47:52 183 [Calculate.java] [INFO] Calc.Calculate [RESULT - POWER] - 27.0
+18/Apr/2022:15:47:52 186 [Calculate.java] [INFO] Calc.Calculate [ROOT] - 28.0
+18/Apr/2022:15:47:52 186 [Calculate.java] [INFO] Calc.Calculate [RESULT - ROOT] - 5.291502622129181
+18/Apr/2022:15:50:41 226 [Calculate.java] [INFO] Calc.Calculate [FACTORIAL] - 4
+18/Apr/2022:15:50:41 242 [Calculate.java] [INFO] Calc.Calculate [RESULT - FACTORIAL] - 24.0
+18/Apr/2022:15:50:41 244 [Calculate.java] [INFO] Calc.Calculate [LOG] - 100.799
+18/Apr/2022:15:50:41 245 [Calculate.java] [INFO] Calc.Calculate [RESULT - LOG] - 4.613128434953138
+18/Apr/2022:15:50:41 246 [Calculate.java] [INFO] Calc.Calculate [ROOT] - 9.0
+18/Apr/2022:15:50:41 262 [Calculate.java] [INFO] Calc.Calculate [RESULT - ROOT] - 3.0
+18/Apr/2022:15:50:41 263 [Calculate.java] [INFO] Calc.Calculate [LOG] - 300.0
+18/Apr/2022:15:50:41 264 [Calculate.java] [INFO] Calc.Calculate [RESULT - LOG] - 5.703782474656201
+18/Apr/2022:15:50:41 278 [Calculate.java] [INFO] Calc.Calculate [POWER] - 4.0, 2.0
+18/Apr/2022:15:50:41 279 [Calculate.java] [INFO] Calc.Calculate [RESULT - POWER] - 16.0
+18/Apr/2022:15:50:41 282 [Calculate.java] [INFO] Calc.Calculate [FACTORIAL] - 7
+18/Apr/2022:15:50:41 283 [Calculate.java] [INFO] Calc.Calculate [RESULT - FACTORIAL] - 5040.0
+18/Apr/2022:15:50:41 285 [Calculate.java] [INFO] Calc.Calculate [POWER] - 3.0, 3.0
+18/Apr/2022:15:50:41 286 [Calculate.java] [INFO] Calc.Calculate [RESULT - POWER] - 27.0
+18/Apr/2022:15:50:41 287 [Calculate.java] [INFO] Calc.Calculate [ROOT] - 28.0
+18/Apr/2022:15:50:41 287 [Calculate.java] [INFO] Calc.Calculate [RESULT - ROOT] - 5.291502622129181
+18/Apr/2022:15:51:33 092 [Calculate.java] [INFO] Calc.Calculate [FACTORIAL] - 4
+18/Apr/2022:15:51:33 102 [Calculate.java] [INFO] Calc.Calculate [RESULT - FACTORIAL] - 24.0
+18/Apr/2022:15:51:33 104 [Calculate.java] [INFO] Calc.Calculate [LOG] - 100.799
+18/Apr/2022:15:51:33 104 [Calculate.java] [INFO] Calc.Calculate [RESULT - LOG] - 4.613128434953138
+18/Apr/2022:15:51:33 106 [Calculate.java] [INFO] Calc.Calculate [ROOT] - 9.0
+18/Apr/2022:15:51:33 119 [Calculate.java] [INFO] Calc.Calculate [RESULT - ROOT] - 3.0
+18/Apr/2022:15:51:33 120 [Calculate.java] [INFO] Calc.Calculate [LOG] - 300.0
+18/Apr/2022:15:51:33 121 [Calculate.java] [INFO] Calc.Calculate [RESULT - LOG] - 5.703782474656201
+18/Apr/2022:15:51:33 134 [Calculate.java] [INFO] Calc.Calculate [POWER] - 4.0, 2.0
+18/Apr/2022:15:51:33 135 [Calculate.java] [INFO] Calc.Calculate [RESULT - POWER] - 16.0
+18/Apr/2022:15:51:33 138 [Calculate.java] [INFO] Calc.Calculate [FACTORIAL] - 7
+18/Apr/2022:15:51:33 139 [Calculate.java] [INFO] Calc.Calculate [RESULT - FACTORIAL] - 5040.0
+18/Apr/2022:15:51:33 140 [Calculate.java] [INFO] Calc.Calculate [POWER] - 3.0, 3.0
+18/Apr/2022:15:51:33 142 [Calculate.java] [INFO] Calc.Calculate [RESULT - POWER] - 27.0
+18/Apr/2022:15:51:33 143 [Calculate.java] [INFO] Calc.Calculate [ROOT] - 28.0
+18/Apr/2022:15:51:33 143 [Calculate.java] [INFO] Calc.Calculate [RESULT - ROOT] - 5.291502622129181
+18/Apr/2022:15:52:14 709 [Calculate.java] [INFO] Calc.Calculate [FACTORIAL] - 4
+18/Apr/2022:15:52:14 719 [Calculate.java] [INFO] Calc.Calculate [RESULT - FACTORIAL] - 24.0
+18/Apr/2022:15:52:14 721 [Calculate.java] [INFO] Calc.Calculate [LOG] - 100.799
+18/Apr/2022:15:52:14 721 [Calculate.java] [INFO] Calc.Calculate [RESULT - LOG] - 4.613128434953138
+18/Apr/2022:15:52:14 722 [Calculate.java] [INFO] Calc.Calculate [ROOT] - 9.0
+18/Apr/2022:15:52:14 738 [Calculate.java] [INFO] Calc.Calculate [RESULT - ROOT] - 3.0
+18/Apr/2022:15:52:14 740 [Calculate.java] [INFO] Calc.Calculate [LOG] - 300.0
+18/Apr/2022:15:52:14 741 [Calculate.java] [INFO] Calc.Calculate [RESULT - LOG] - 5.703782474656201
+18/Apr/2022:15:52:14 753 [Calculate.java] [INFO] Calc.Calculate [POWER] - 4.0, 2.0
+18/Apr/2022:15:52:14 755 [Calculate.java] [INFO] Calc.Calculate [RESULT - POWER] - 16.0
+18/Apr/2022:15:52:14 757 [Calculate.java] [INFO] Calc.Calculate [FACTORIAL] - 7
+18/Apr/2022:15:52:14 758 [Calculate.java] [INFO] Calc.Calculate [RESULT - FACTORIAL] - 5040.0
+18/Apr/2022:15:52:14 759 [Calculate.java] [INFO] Calc.Calculate [POWER] - 3.0, 3.0
+18/Apr/2022:15:52:14 760 [Calculate.java] [INFO] Calc.Calculate [RESULT - POWER] - 27.0
+18/Apr/2022:15:52:14 761 [Calculate.java] [INFO] Calc.Calculate [ROOT] - 28.0
+18/Apr/2022:15:52:14 762 [Calculate.java] [INFO] Calc.Calculate [RESULT - ROOT] - 5.291502622129181
+18/Apr/2022:15:52:54 783 [Calculate.java] [INFO] Calc.Calculate [FACTORIAL] - 4
+18/Apr/2022:15:52:54 796 [Calculate.java] [INFO] Calc.Calculate [RESULT - FACTORIAL] - 24.0
+18/Apr/2022:15:52:54 799 [Calculate.java] [INFO] Calc.Calculate [LOG] - 100.799
+18/Apr/2022:15:52:54 800 [Calculate.java] [INFO] Calc.Calculate [RESULT - LOG] - 4.613128434953138
+18/Apr/2022:15:52:54 801 [Calculate.java] [INFO] Calc.Calculate [ROOT] - 9.0
+18/Apr/2022:15:52:54 821 [Calculate.java] [INFO] Calc.Calculate [RESULT - ROOT] - 3.0
+18/Apr/2022:15:52:54 822 [Calculate.java] [INFO] Calc.Calculate [LOG] - 300.0
+18/Apr/2022:15:52:54 823 [Calculate.java] [INFO] Calc.Calculate [RESULT - LOG] - 5.703782474656201
+18/Apr/2022:15:52:54 841 [Calculate.java] [INFO] Calc.Calculate [POWER] - 4.0, 2.0
+18/Apr/2022:15:52:54 841 [Calculate.java] [INFO] Calc.Calculate [RESULT - POWER] - 16.0
+18/Apr/2022:15:52:54 842 [Calculate.java] [INFO] Calc.Calculate [FACTORIAL] - 7
+18/Apr/2022:15:52:54 843 [Calculate.java] [INFO] Calc.Calculate [RESULT - FACTORIAL] - 5040.0
+18/Apr/2022:15:52:54 846 [Calculate.java] [INFO] Calc.Calculate [POWER] - 3.0, 3.0
+18/Apr/2022:15:52:54 848 [Calculate.java] [INFO] Calc.Calculate [RESULT - POWER] - 27.0
+18/Apr/2022:15:52:54 850 [Calculate.java] [INFO] Calc.Calculate [ROOT] - 28.0
+18/Apr/2022:15:52:54 850 [Calculate.java] [INFO] Calc.Calculate [RESULT - ROOT] - 5.291502622129181
+18/Apr/2022:15:53:24 831 [Calculate.java] [INFO] Calc.Calculate [FACTORIAL] - 4
+18/Apr/2022:15:53:24 839 [Calculate.java] [INFO] Calc.Calculate [RESULT - FACTORIAL] - 24.0
+18/Apr/2022:15:53:24 840 [Calculate.java] [INFO] Calc.Calculate [LOG] - 100.799
+18/Apr/2022:15:53:24 841 [Calculate.java] [INFO] Calc.Calculate [RESULT - LOG] - 4.613128434953138
+18/Apr/2022:15:53:24 842 [Calculate.java] [INFO] Calc.Calculate [ROOT] - 9.0
+18/Apr/2022:15:53:24 855 [Calculate.java] [INFO] Calc.Calculate [RESULT - ROOT] - 3.0
+18/Apr/2022:15:53:24 858 [Calculate.java] [INFO] Calc.Calculate [LOG] - 300.0
+18/Apr/2022:15:53:24 859 [Calculate.java] [INFO] Calc.Calculate [RESULT - LOG] - 5.703782474656201
+18/Apr/2022:15:53:24 860 [Calculate.java] [INFO] Calc.Calculate [POWER] - 4.0, 2.0
+18/Apr/2022:15:53:24 861 [Calculate.java] [INFO] Calc.Calculate [RESULT - POWER] - 16.0
+18/Apr/2022:15:53:24 862 [Calculate.java] [INFO] Calc.Calculate [FACTORIAL] - 7
+18/Apr/2022:15:53:24 862 [Calculate.java] [INFO] Calc.Calculate [RESULT - FACTORIAL] - 5040.0
+18/Apr/2022:15:53:24 863 [Calculate.java] [INFO] Calc.Calculate [POWER] - 3.0, 3.0
+18/Apr/2022:15:53:24 863 [Calculate.java] [INFO] Calc.Calculate [RESULT - POWER] - 27.0
+18/Apr/2022:15:53:24 864 [Calculate.java] [INFO] Calc.Calculate [ROOT] - 28.0
+18/Apr/2022:15:53:24 865 [Calculate.java] [INFO] Calc.Calculate [RESULT - ROOT] - 5.291502622129181
+18/Apr/2022:15:56:24 107 [Calculate.java] [INFO] Calc.Calculate [POWER] - 3.0, 3.0
+18/Apr/2022:15:56:24 115 [Calculate.java] [INFO] Calc.Calculate [RESULT - POWER] - 27.0
+18/Apr/2022:15:56:24 117 [Calculate.java] [INFO] Calc.Calculate [FACTORIAL] - 7
+18/Apr/2022:15:56:24 118 [Calculate.java] [INFO] Calc.Calculate [RESULT - FACTORIAL] - 5040.0
+18/Apr/2022:15:56:24 119 [Calculate.java] [INFO] Calc.Calculate [POWER] - 4.0, 2.0
+18/Apr/2022:15:56:24 194 [Calculate.java] [INFO] Calc.Calculate [RESULT - POWER] - 16.0
+18/Apr/2022:15:56:24 195 [Calculate.java] [INFO] Calc.Calculate [LOG] - 100.799
+18/Apr/2022:15:56:24 196 [Calculate.java] [INFO] Calc.Calculate [RESULT - LOG] - 4.613128434953138
+18/Apr/2022:15:56:24 197 [Calculate.java] [INFO] Calc.Calculate [FACTORIAL] - 4
+18/Apr/2022:15:56:24 199 [Calculate.java] [INFO] Calc.Calculate [RESULT - FACTORIAL] - 24.0
+18/Apr/2022:15:56:24 203 [Calculate.java] [INFO] Calc.Calculate [LOG] - 300.0
+18/Apr/2022:15:56:24 204 [Calculate.java] [INFO] Calc.Calculate [RESULT - LOG] - 5.703782474656201
+18/Apr/2022:15:56:24 207 [Calculate.java] [INFO] Calc.Calculate [ROOT] - 9.0
+18/Apr/2022:15:56:24 208 [Calculate.java] [INFO] Calc.Calculate [RESULT - ROOT] - 3.0
+18/Apr/2022:15:56:24 209 [Calculate.java] [INFO] Calc.Calculate [ROOT] - 28.0
+18/Apr/2022:15:56:24 210 [Calculate.java] [INFO] Calc.Calculate [RESULT - ROOT] - 5.291502622129181
+18/Apr/2022:17:12:45 773 [Calculate.java] [INFO] Calc.Calculate [POWER] - 3.0, 3.0
+18/Apr/2022:17:12:45 781 [Calculate.java] [INFO] Calc.Calculate [RESULT - POWER] - 27.0
+18/Apr/2022:17:12:45 783 [Calculate.java] [INFO] Calc.Calculate [FACTORIAL] - 7
+18/Apr/2022:17:12:45 784 [Calculate.java] [INFO] Calc.Calculate [RESULT - FACTORIAL] - 5040.0
+18/Apr/2022:17:12:45 785 [Calculate.java] [INFO] Calc.Calculate [POWER] - 4.0, 2.0
+18/Apr/2022:17:12:45 810 [Calculate.java] [INFO] Calc.Calculate [RESULT - POWER] - 16.0
+18/Apr/2022:17:12:45 812 [Calculate.java] [INFO] Calc.Calculate [LOG] - 100.799
+18/Apr/2022:17:12:45 813 [Calculate.java] [INFO] Calc.Calculate [RESULT - LOG] - 4.613128434953138
+18/Apr/2022:17:12:45 813 [Calculate.java] [INFO] Calc.Calculate [FACTORIAL] - 4
+18/Apr/2022:17:12:45 814 [Calculate.java] [INFO] Calc.Calculate [RESULT - FACTORIAL] - 24.0
+18/Apr/2022:17:12:45 816 [Calculate.java] [INFO] Calc.Calculate [LOG] - 300.0
+18/Apr/2022:17:12:45 816 [Calculate.java] [INFO] Calc.Calculate [RESULT - LOG] - 5.703782474656201
+18/Apr/2022:17:12:45 818 [Calculate.java] [INFO] Calc.Calculate [ROOT] - 9.0
+18/Apr/2022:17:12:45 819 [Calculate.java] [INFO] Calc.Calculate [RESULT - ROOT] - 3.0
+18/Apr/2022:17:12:45 820 [Calculate.java] [INFO] Calc.Calculate [ROOT] - 28.0
+18/Apr/2022:17:12:45 820 [Calculate.java] [INFO] Calc.Calculate [RESULT - ROOT] - 5.291502622129181

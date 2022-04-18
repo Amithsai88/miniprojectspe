@@ -7,6 +7,9 @@ pipeline {
     registry = "amith1108/miniprojectspe"
     registryCredential = 'Amith'
     dkrImg = ''
+    DOCKER_BUILDKIT=0
+    COMPOSE_DOCKER_CLI_BUILD=0
+    PATH="/usr/local/bin/:$PATH"
   }
   agent any
   stages {
@@ -43,18 +46,22 @@ pipeline {
     }
     stage('Deploy Docker Image') {
       steps{
+
         script {
+        //     docker{
+        //       registryUrl 'https://index.docker.io/v1/'
+        //   }
           echo "Deploying Docker Image to " + registry
-          docker.withRegistry( '', registryCredential ) {
+        //   docker.withRegistry( '', registryCredential ) {
             dkrImg.push()
-          }
+        //   }
         }
       }
     }
 
     stage('Ansible') {
       steps{
-        ansiblePlaybook becomeUser: null, colorized: true, disableHostKeyChecking: true, installation: 'Ansible',  invetory: "Inventory",playbook: 'dockerdet.yml', sudoUser: null
+        ansiblePlaybook becomeUser: null, colorized: true, disableHostKeyChecking: true, installation: 'Ansible',  inventory: "Inventory",playbook: 'dockerdet.yml', sudoUser: null
       }
     }
   }
